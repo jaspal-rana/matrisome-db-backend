@@ -1,0 +1,18 @@
+{
+    "blog_header": {
+        "type": "text",
+        "break_line": true,
+        "content": "This is a blog header",
+        "color": "#ffffff",
+        "font": "Bold"
+    },
+    "blog_content": [
+        {
+            "type": "text", // text, list, file-download, image, web-link, email-link, line-break
+            "break_line": true,
+            "content": "This is a blog header",
+            "color": "#ffffff",
+            "font": "Bold"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "blog_name": "Search",
+    "header": {
+        "type": "text",
+        "break_line": true,
+        "content": "MatrisomeDB",
+        "color": "#0295cf",
+        "fontWeight": "bold",
+        "fontSize": "2em"
+    },
+    "type": "list",
+    "content": [
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "MatrisomeDB is a searchable database that integrates experimental proteomic data on the ECM composition normal and diseased tissues. It also provides live cross-referencing to gene and protein databases for every ECM and ECM-associated genes. "
+        },
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "Citation: MatrisomeDB: the ECM-protein knowledge database. Shao X, Taha IN, Clauser KR, Gao Y, Naba A. Nucleic Acids Res. 2019 Oct 5. pii: gkz849."
+        },
+        {
+            "type": "link",
+            "break_line": true,
+            "content": "http://doi.org/10.1093/nar/gkz849",
+            "contentAlt": "doi:10.1093/nar/gkz849",
+            "color": "#0295cf"
+        }
+    ]
+}

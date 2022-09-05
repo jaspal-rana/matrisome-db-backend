@@ -1,0 +1,57 @@
+{
+    "blog_name": "About",
+    "header": {
+        "type": "text",
+        "break_line": true,
+        "content": "About MatrisomeDB",
+        "color": "#0295cf",
+        "fontWeight": "bold",
+        "fontSize": "2em"
+    },
+    "type": "list",
+    "content": [
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "MatrisomeDB is a searchable database that integrates experimental proteomic data on the ECM composition of normal and diseased tissues. It provides for each entry the list of tissues in which it was detected, a coverage map indicating the peptides detected, as well as the list of post-translational modifications identified. It also provides live cross-referencing to gene and protein databases for every ECM and ECM-associated genes."
+        },
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "The 2019 release of MatrisomeDB was developed through a collaborative effort between the Naba lab in the Department of Physiology and Biophysics at the University of Illinois at Chicago (UIC) and the Gao lab in the College of Pharmacy at UIC."
+        },
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "MatrisomeDB is part of the larger Matrisome Project, an effort initiated by Dr. Naba during her postdoctoral training in the laboratory of Dr. Richard Hynes at MIT, in collaboration with members of the Bioinformatics & Computing Facility at the Koch Institute for Integrative Cancer Research at MIT, and Karl Clauser and Steve Carr at the Proteomics Platform of the Broad Institute."
+        },
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "MatrisomeDB is expandable. If you have recently reported the results of a ECM proteomics study and would like to have your data integrated in MatrisomeDB, please contact us at matrisomeproject@gmail.com. Your data will help other researchers in the field to conduct better research. Together, we thrive. To submit your data, click HERE."
+        },
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "Contact:",
+            "fontWeight": "bold"
+        },
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "If you would like to submit your data, please contact us."
+        },
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "For questions, concerns and potential collaborations, feel free to contact us."
+        },
+        {
+            "type": "email",
+            "break_line": true,
+            "content": "matrisomeproject@gmail.com",
+            "color": "#0295cf",
+            "fontWeight": "bold"
+        }
+    ]
+}

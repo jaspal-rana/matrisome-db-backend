@@ -1,0 +1,52 @@
+{
+    "blog_name": "Submit",
+    "header": {
+        "type": "text",
+        "break_line": true,
+        "content": "Submit to MatrisomeDB",
+        "color": "#0295cf",
+        "fontWeight": "bold",
+        "fontSize": "2em"
+    },
+    "type": "list",
+    "content": [
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "MatrisomeDB is expandable! "
+        },
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "If you have recently reported the result of an ECM proteomics study and would like to have your data integrated in MatrisomeDB, please contact us at below email"
+        },
+        {
+            "type": "email",
+            "break_line": true,
+            "content": "matrisomeproject@gmail.com",
+            "color": "#0295cf",
+            "fontWeight": "bold"
+        },
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "If your data are already despotited in a public repository member of the ProteomeXchange consortium such as PRIDE or MASSIVE, please send us the repository ID and a copy of your original publication."
+        },
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "If your data is not deposited in a public repository, please contact us and we will send you a link to upload the data."
+        },
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "Your data will help other researchers in the field to conduct better research."
+        },
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "Together, we thrive!",
+            "fontWeight": "bold"
+        }
+    ]
+}

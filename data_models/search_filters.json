@@ -1,0 +1,10 @@
+{
+    "exact_match": {
+        "field1": "value1",
+        "field2": "value2"
+    },
+    "partial_match": {
+        "fields": ["f1", "f2", "f3"],
+        "search_term": "liver" 
+    }
+}

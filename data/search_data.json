@@ -1,0 +1,15 @@
+[
+    {
+        "Gene": "COL1A1",
+        "Uniprot": "P02452",
+        "Sample_type": "Liver metastasis from metastatic colorectal tumor",
+        "Tissue": "Colon Cancer",
+        "Species": "human",
+        "Repository": "PXD001765",
+        "Reference": "10.15252/msb.20156123",
+        "Confidence_Score": 100033,
+        "Description": "Collagen alpha-1(I) chain",
+        "Coverage_Map_File": "Bronchoalveolar lavage of fibrotic lung_Q61001.html",
+        "Total_Ion_Intensity": 52775200
+    }
+]

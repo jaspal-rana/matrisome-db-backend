@@ -1,0 +1,71 @@
+{
+    "blog_name": "Publications",
+    "header": {
+        "type": "text",
+        "break_line": true,
+        "content": "MatrisomeDB Publications",
+        "color": "#0295cf",
+        "fontWeight": "bold",
+        "fontSize": "2em"
+    },
+    "type": "list",
+    "content": [
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "If you use MatrisomeDB for your research, please cite:"
+        },
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "MatrisomeDB: the ECM-protein knowledge database. Shao X, Taha IN, Clauser KR, Gao Y, Naba A. Nucleic Acids Res. 2019 Oct 5. pii: gkz849."
+        },
+        {
+            "type": "link",
+            "break_line": true,
+            "content": "http://doi.org/10.1093/nar/gkz849",
+            "contentAlt": "[Full Text]",
+            "color": "#0295cf",
+            "fontWeight": "bold"
+        },
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "Naba A#, Clauser K.R#, Hoersch S, Liu H, Carr S.A*, and Hynes R.O.* (2012) The matrisome: in silico definition and in vivo characterization by proteomics of normal and tumor extracellular matrices. Molecular and Cellular Proteomics, 11(4):M111.014647."
+        },
+        {
+            "type": "link",
+            "break_line": true,
+            "content": "http://www.mcponline.org/content/11/4/M111.014647.long",
+            "contentAlt": "[Full Text]",
+            "color": "#0295cf",
+            "fontWeight": "bold"
+        },
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "Naba A*, Clauser K.R, Ding H, Whittaker C.A, Carr S.A, and Hynes R.O*. (2016) The extracellular matrix in the “omics” era. Matrix Biology, pii: S0945-053X(15)00121-3."
+        },
+        {
+            "type": "link",
+            "break_line": true,
+            "content": "http://dx.doi.org/10.1016/j.matbio.2015.06.003",
+            "contentAlt": "[Full Text]",
+            "color": "#0295cf",
+            "fontWeight": "bold"
+        },
+        {
+            "type": "text",
+            "break_line": true,
+            "content": "For the complete list of publications of Dr. Naba on the Matrisome Project, click below"
+        },
+        {
+            "type": "link",
+            "break_line": true,
+            "content": "https://sites.google.com/a/uic.edu/nabalab/publications",
+            "contentAlt": "Publications List",
+            "color": "#0295cf",
+            "fontWeight": "bold"
+        }
+    ]
+}
